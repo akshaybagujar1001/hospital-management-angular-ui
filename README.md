@@ -79,7 +79,6 @@ git clone https://github.com/akshaybagujar1001/hospital-management-angular-ui.gi
 **7. Add Medicine Component:**  
 ![Add Medicine](https://raw.githubusercontent.com/akshaybagujar1001/hospital-management-angular-ui/main/src/assets/7.png)
 
-
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
