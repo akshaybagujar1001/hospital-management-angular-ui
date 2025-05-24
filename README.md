@@ -56,58 +56,28 @@ To get started locally, clone this repository using:
 ```bash
 git clone https://github.com/akshaybagujar1001/hospital-management-angular-ui.git
 
-## Screenshots
-**1. Home Page of the Application:**
+## 📷 Screenshots
 
-![Home page](https://user-images.githubusercontent.com/27400082/185591948-646bd11f-3bd0-4a44-ad5b-e0ae3add82d6.JPG)
+**1. Home Page of the Application:**  
+![Home Page](https://raw.githubusercontent.com/akshaybagujar1001/hospital-management-angular-ui/main/src/assets/1.jpg)
 
-**2. News Feeds:**
+**2. News Feeds:**  
+![News Feeds](https://raw.githubusercontent.com/akshaybagujar1001/hospital-management-angular-ui/main/src/assets/2.jpg)
 
-![Newsfeeds1](https://user-images.githubusercontent.com/27400082/185595973-3b879ac5-8b0c-47f9-88a7-e616b1cc4824.JPG)
+**3. Doctor Login Component with Authentication:**  
+![Doctor Login](https://raw.githubusercontent.com/akshaybagujar1001/hospital-management-angular-ui/main/src/assets/3.jpg)
 
-**3. Doctor Login Component with Authentication:**
+**4. Doctor Dashboard Component:**  
+![Doctor Dashboard](https://raw.githubusercontent.com/akshaybagujar1001/hospital-management-angular-ui/main/src/assets/4.jpg)
 
-![Doclogin page](https://user-images.githubusercontent.com/27400082/185596164-54e22664-a9ed-47d0-a466-c7f14147324d.JPG)
+**5. Search by Name Feature:**  
+![Search](https://raw.githubusercontent.com/akshaybagujar1001/hospital-management-angular-ui/main/src/assets/5.jpg)
 
-**4. Doctor Dashboard Component:**
+**6. Viewing Patient Diagnostics:**  
+![Patient Diagnostics](https://raw.githubusercontent.com/akshaybagujar1001/hospital-management-angular-ui/main/src/assets/6.jpg)
 
-![Doctor Dashboard](https://user-images.githubusercontent.com/27400082/185596304-2fdf38c7-b56f-490d-a17d-07d48d5aeed8.JPG)
-
-**5. Search by name feature:**
-
-![Search by name](https://user-images.githubusercontent.com/27400082/185596480-5f990e65-bbbd-44db-988c-7445a7c6da1d.JPG)
-
-**6. Viewing Patient Diagnostics:**
-
-![View Patient](https://user-images.githubusercontent.com/27400082/185596650-a0456bad-82b5-423b-b2cb-a70009d28fbd.JPG)
-
-**7. Add Patient component:**
-
-![Add New Patient](https://user-images.githubusercontent.com/27400082/185597082-01dc90fa-079b-491b-a602-72a2c8ddc6d3.JPG)
-
-**8. Updating Patient Details:**
-
-![Update Patient](https://user-images.githubusercontent.com/27400082/185596743-f11c59f7-e1aa-4f99-b517-2963b53977c8.JPG)
-
-**9. Medicine List component:**
-
-![Medicine List](https://user-images.githubusercontent.com/27400082/185596877-dcee6f7a-5fe7-4dc5-bf5e-5e1eba7ad96b.JPG)
-
-**10. Add Medicine component:**
-
-![Add Medicine](https://user-images.githubusercontent.com/27400082/185597201-396c31b8-20f8-4caf-9ea9-4ba43e143daa.JPG)
-
-**11. Admin Login component:**
-
-![Admin Login](https://user-images.githubusercontent.com/27400082/185597341-bed9ca37-0a27-4709-9e97-06f217b65b24.JPG)
-
-**12. Admin Dashboard component:**
-
-![Admin Dashboard](https://user-images.githubusercontent.com/27400082/185597407-8a982dba-0724-42d7-8837-118ad7a2c704.JPG)
-
-**13. Appointments:**
-
-![Appointments](https://user-images.githubusercontent.com/27400082/185597534-5e430d89-4cb5-47a3-b523-058a5aebdeca.JPG)
+**7. Add Medicine Component:**  
+![Add Medicine](https://raw.githubusercontent.com/akshaybagujar1001/hospital-management-angular-ui/main/src/assets/7.png)
 
 
 ## Development server
