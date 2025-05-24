@@ -53,7 +53,7 @@ Sprinboot is used as a middleware for database connection and api generation. My
 📦 **Clone this Project**
 To get started locally, clone this repository using:
 
-```bash
+
 git clone https://github.com/akshaybagujar1001/hospital-management-angular-ui.git
 
 ## 📷 Screenshots
